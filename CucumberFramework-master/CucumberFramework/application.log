@@ -1,0 +1,10 @@
+2019-03-15 16:31:01,983  INFO [main] HooksHelper:24 - ***************Read Prop File***************
+2019-03-15 16:31:01,991  INFO [main] TestBase:36 - ===========Launch Chrome Browser===========
+2019-03-15 16:31:05,940  INFO [main] LoginStepDefination:39 - ***************Read Prop File***************{password=AceLMS@032017, url=http://acelms.devdigdev.com/login/index.php, browser=chrome, username=admin}
+2019-03-15 16:31:07,184  INFO [main] LoginStepDefination:50 - ***************Load URL in browser***************
+2019-03-15 16:31:23,891  INFO [main] LoginStepDefination:52 - **********On the Login Page**********
+2019-03-15 16:31:24,261  INFO [main] LoginStepDefination:68 - ***************Enter the username***************
+2019-03-15 16:31:24,335  INFO [main] LoginStepDefination:70 - ***************Enter the password***************
+2019-03-15 16:31:24,424  INFO [main] LoginStepDefination:72 - ***************Enter the login button***************
+2019-03-15 16:31:46,386  INFO [main] LoginStepDefination:93 - ***************Print the title***************
+2019-03-15 16:31:53,783  INFO [main] HooksHelper:34 - ***************Closing Browser***************
